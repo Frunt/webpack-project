@@ -1,31 +1,19 @@
-# A Material Design Bootstrap & Webpack boilerplate
+# My webpack project template
 
 [![Build Status](https://travis-ci.org/SpellCraft/mdb4-boilerplate.svg?branch=master)](https://travis-ci.org/SpellCraft/mdb4-boilerplate)
 
-<h2 align="center"><b>Special Thanks</b></h2>
 <p align="center" style="text-align:center;">
     <a href="https://mdbootstrap.com" target="_blank">
         <img src="https://mdbootstrap.com/img/logo/mdb-transparent-250px.png" alt="Developers of MDB for jQuery">
     </a>
 </p>
-<p align="center">Huge thanks to the developers of MDBootstrap for creating such an in-depth and awesome UI-Kit.</p>
-<p align="center">
-    Using the <b>Free</b> version of MDB?<br>
-    Consider upgrading to the <b>Pro</b> version for even more features!<br>
-    <a href="https://mdbootstrap.com/material-design-for-bootstrap/?utm_ref_id=29943" target="_blank">MDBootstrap Upgrade</a>
-</p>
-<br>
-<br>
-<h2 align="center"><b>New version of MDB-Boilerplate coming in March!</b></h2>
-<br>
-<br>
 <h1 align="center"><b>Quickstart Guide</b></h1>
 
 This boilerplate comes complete with everything you need to get a quick start on any project. This boilerplate supports both the **Free** and **Pro** version of MDB for jQuery.
 To begin, simply navigate to where you want to clone this boilerplate then run the following commands:
 ```bash
 # Clone the project
-git clone --recursive https://github.com/SpellCraft/mdb4-boilerplate.git
+git clone https://github.com/Frunt/webpack-project.git
 # Then install dependencies
 npm install
 ```
